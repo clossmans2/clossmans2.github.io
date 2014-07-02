@@ -3,9 +3,120 @@
 <head>
 	<meta charset="UTF-8">
 	<title>The Guy Who Wants To Know Everything about Everything</title>
+	<link href="//maxcdn.bootstrapcdn.com/bootswatch/3.1.1/superhero/bootstrap.min.css" rel="stylesheet">
+	<link href="//maxcdn.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet">
 </head>
 <body>
-	<h1>Learning on the run</h1>
-	<p>My journey toward becoming a developer, as told by a marketing communication major that enjoys technology.</p>
+	<div class="jumbotron">
+		<div class="container">
+			<h1>Learning on the run</h1>
+			<p class="lead">My journey toward becoming a developer, as told by a marketing communication major that enjoys technology.</p>
+		</div>
+	</div>
+	<div class="container">
+		<div class="col-md-2">
+		<!-- Spacer to center blog posts -->
+		</div>
+		
+		{% include nav.html %}
+
+		<!-- Start Blog Content -->
+		<div class="col-lg-8 col-md-8 col-xs-12">
+			<div class="row blog-post">
+				<h1>Blog Post Title</h1>
+				<p class="lead">Blog subtitle lead</p>
+				<hr>
+				<p>
+					<span class="glyphicon glyphicon-time"> Posted on {{ 'now' | date: "%Y %h" }}</span>
+				</p>
+				<hr>
+				<img src="http://placehold.it/900x300" class="img-responsive">
+				<hr>
+				<p class="lead">First leading paragraph of the blog that is usually highlighted and made bigger for people to read.</p>
+				<p>Second paragraph filler text and so on and so on and this is when lorem ipsum usually comes into play.</p>
+				<p>How about some S.L.ipsum....</p>
+				<!-- start slipsum code -->
+				<p>Yeah, I like animals better than people sometimes... Especially dogs. Dogs are the best. Every time you come home, they act like they haven't seen you in a year. And the good thing about dogs... is they got different dogs for different people. Like pit bulls. The dog of dogs. Pit bull can be the right man's best friend... or the wrong man's worst enemy. You going to give me a dog for a pet, give me a pit bull. Give me... Raoul. Right, Omar? Give me Raoul. </p>
+				<p>Your bones don't break, mine do. That's clear. Your cells react to bacteria and viruses differently than mine. You don't get sick, I do. That's also clear. But for some reason, you and I react the exact same way to water. We swallow it too fast, we choke. We get some in our lungs, we drown. However unreal it may seem, we are connected, you and I. We're on the same curve, just on opposite ends. </p>
+				<p>The lysine contingency - it's intended to prevent the spread of the animals is case they ever got off the island. Dr. Wu inserted a gene that makes a single faulty enzyme in protein metabolism. The animals can't manufacture the amino acid lysine. Unless they're continually supplied with lysine by us, they'll slip into a coma and die. </p>
+				<!-- please do not remove this line -->
+				<div style="display:none;">
+				<a href="http://slipsum.com">lorem ipsum</a></div>
+				<!-- end slipsum code -->
+				<hr>
+				<!-- comment box -->
+				<div class="well">
+					<h4>Leave a Message:</h4>
+					<form action="" role="form">
+						<div class="form-group">
+							<label for="commentBox">Comments: </label>
+							<textarea name="cmtBox" id="commenBox" rows="3" class="form-control"></textarea>
+						</div>
+						<button class="btn btn-primary" type="submit">Submit</button>
+					</form>
+				</div>
+
+				<hr>
+
+				<!-- comments -->
+			</div>
+		</div>
+		<!-- End Blog Content -->
+		
+		<!-- Begin widget panel -->
+		<div class="col-md-2">
+			<div class="well">
+                <h4>Blog Search</h4>
+                <div class="input-group">
+                    <input type="text" class="form-control">
+                    <span class="input-group-btn">
+                        <button class="btn btn-default" type="button">
+                            <span class="glyphicon glyphicon-search"></span>
+                        </button>
+                    </span>
+                </div>
+                <!-- /input-group -->
+            </div>
+            <!-- /well -->
+            <div class="well">
+                <h4>Popular Blog Categories</h4>
+                <div class="row">
+                    <div class="col-lg-6">
+                        <ul class="list-unstyled">
+                            <li><a href="#dinosaurs">Dinosaurs</a>
+                            </li>
+                            <li><a href="#spaceships">Spaceships</a>
+                            </li>
+                            <li><a href="#fried-foods">Fried Foods</a>
+                            </li>
+                            <li><a href="#wild-animals">Wild Animals</a>
+                            </li>
+                        </ul>
+                    </div>
+                    <div class="col-lg-6">
+                        <ul class="list-unstyled">
+                            <li><a href="#alien-abductions">Alien Abductions</a>
+                            </li>
+                            <li><a href="#business-casual">Business Casual</a>
+                            </li>
+                            <li><a href="#robots">Robots</a>
+                            </li>
+                            <li><a href="#fireworks">Fireworks</a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <!-- /well -->
+            <div class="well">
+                <h4>Side Widget Well</h4>
+                <p>Bootstrap's default wells work great for side widgets! What is a widget anyways...?</p>
+            </div>
+            <!-- /well -->
+		</div>
+		<!-- End widget panel -->
+	</div>
+	<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+	<script src="//maxcdn.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
 </body>
 </html>
