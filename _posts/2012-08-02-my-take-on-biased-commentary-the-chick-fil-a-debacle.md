@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My take on biased commentary: The Chick-fil-a debacle
+title: My take on biased commentary about The Chick-fil-a debacle
 date: 2012-08-02 02:37
 author: clossmans2
 comments: true

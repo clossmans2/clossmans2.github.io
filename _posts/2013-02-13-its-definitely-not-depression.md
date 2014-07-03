@@ -1,16 +1,30 @@
 ---
-layout: post
-title: It's definitely not depression...
-date: 2013-02-13 06:02
-author: clossmans2
+layout: "post"
+title: "It's definitely not depression..."
+date: "2013-02-13 06:02"
+author: "clossmans2"
 comments: true
-categories: [bad ideas, creativity, depression, Design, designers, dissatisfaction, DIY, elloree, good ideas, ideas, improvement, life, marriage, Personal Life, software development, user interface]
+tags: 
+- "creativity"
+- "depression"
+- "dissatisfaction"
+- "DIY"
+- "elloree"
+- "ideas"
+- "improvement"
+- "life"
+- "marriage"
+- "software"
+- "development"
 ---
 During the first year of my marriage, my wife said something that I've had a hard time shaking off for so long.  I started thinking about then and up until now, I believed that it was a problem I had.  She said "You'll never be satisfied with what you have<!--more--> or how things are, you're constantly looking for change."  I thought that I had contracted the Clossman curse.
 
 My father is now 50 years old.  He's not ancient by any means, but half a century is getting up there.  He acts and looks like he's 35.  Anyways, growing up I remember that my Dad was continuously trying out new things.  He would start one hobby and go to the next.  He's always been big into fitness but I saw those as personal goals rather than hobbies.  The man has his private pilot's license, SCUBA certification, a near US National Championship in archery (compound bow), a talent for creating things from scratch, and a proclivity for DIY projects.  He needed to prepare for the <a href="http://www.spartanrace.com/spartan-beast-obstacle-course-race.html" title="Spartan Beast" target="_blank">Spartan Beast</a> race last year.  Instead of going to the local YMCA or joining a gym like normal people would, he created his own obstacle course in his backyard.  He had everything from a climbing wall he built onto the shed, a climbing rope that he tied on to one of the tallest trees we have, to a tractor tire flipping zone.  It was intense!  I remember this kind of thing from him all the while.  I needed a science fair project.  He sat down with me and built a listening dish (like they use on the side of a football field) out of things lying around the house.
 
-[caption width="500" align="aligncenter"]<img src="http://extras.mnginteractive.com/live/media/site513/2009/1029/20091029__BW_DS30-HOFFRTH-AUD+PC4G3SM_500.JPG" width="500" height="333" alt="Mic_dish_USC_Trojans" class /> Parabolic Microphone with dish on USC's sidelines.[/caption]
+<div class="well">
+	<img src="http://extras.mnginteractive.com/live/media/site513/2009/1029/20091029__BW_DS30-HOFFRTH-AUD+PC4G3SM_500.JPG" alt="Mic_dish_USC_Trojans" class="img-responsive" />
+	<div class="caption">Parabolic Microphone with dish on USC's sidelines.</div>
+</div>
 
 My football coach needed a new machine for the weight room that was going to cost $1000+ that he talked with my dad about.  My dad built it out of steel and a few welds for $50 and put his name on the side of the side of so that it would forever be known as the Iron Dan machine.  
 
