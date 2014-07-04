@@ -4,8 +4,9 @@ title: Lose/Lose Situation
 date: 2012-09-24 08:01
 author: clossmans2
 comments: true
-categories: [Uncategorized]
+tags: "Uncategorized"
 ---
+
 <div><a href="http://sethclossman.com/blog/wp-content/uploads/2012/09/callcenter-72-03s.jpg"><img src="http://sethclossman.com/blog/wp-content/uploads/2012/09/callcenter-72-03s.jpg?w=300" alt="" border="0" /></a></div>
 <div></div>
 <div>While hanging around the office a day ago, a coworker and I began a discussion.  It started out as small talk but really went deep into the way things are these days.  One of the topics we talked about, brought way out into a broad generalization, is that people have a need to connect and do good things for others.  In this way someone who has a large amount to be thankful for reaches out to others to share that goodness.  This is why we have charities.</div>

@@ -4,7 +4,13 @@ title: Day 7 - Flying by already
 date: 2013-06-06 09:19
 author: clossmans2
 comments: true
-categories: [baby, fatherhood, New Father, new parent, Personal Life]
+tags:
+ - "baby"
+ - "fatherhood"
+ - "New Father"
+ - "new parent"
+ - "Personal Life"
+ 
 ---
 <a href="http://sethclossman.com/blog/wp-content/uploads/2013/06/20130607-041254.jpg"><img src="http://sethclossman.com/blog/wp-content/uploads/2013/06/20130607-041254.jpg" alt="20130607-041254.jpg" class="alignnone size-full" /></a><br /><br />Looking at the previous 7 days. i've actually been 1 day ahead because of my day 0/1.  Technically when I am writing this, I am well into day 8 and i've been slack on keeping up with this.  I'm actually going to be covering day 6 and day 7. 
 

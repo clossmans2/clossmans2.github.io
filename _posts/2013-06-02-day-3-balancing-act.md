@@ -4,7 +4,14 @@ title: Day 3 - Balancing Act
 date: 2013-06-02 06:46
 author: clossmans2
 comments: true
-categories: [baby, father, host, New Father, parenting, Personal Life]
+tags: 
+ - "baby"
+ - "father"
+ - "host"
+ - "New Father"
+ - "parenting"
+ - "Personal Life"
+
 ---
 Let me start off by saying that I am still 1 day behind at this point because of the events that took place on the first real night.  The cluster feeding thing kept me up so long that I never had time to actually sit down and write anything at all.  I am one for late nights, but that was crazy.  To have to go all night, sleep for only about 2 hours, get up and play good host followed by staying up till 5am the next day... I have finally met my match.
 

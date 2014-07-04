@@ -1,0 +1,40 @@
+---
+layout: post
+---
+
+<!DOCTYPE html>
+<html lang="en">
+{% include head.html %}
+<body>
+	<!-- Add in the Navbar -->
+	{% include nav.html %}
+
+	<!-- Main content area -->
+ 	<br />
+	<br />
+	
+	<div class="container">		
+
+		<!-- Start Blog Content -->
+		<div class="col-md-9 col-xs-12">
+			<div class="row blog-post">
+				<h2>{{ page.title }}</h2>
+				{% unless page.date == empty? %}
+				<p>
+					<span class="fa fa-clock-o"> Posted on {{ page.date | date_to_long_string }}</span>
+				</p>
+				{% endunless %}
+				<hr />
+				<p>{{ page.content }}</p>
+				<hr />
+			</div>
+		</div>
+		<!-- End Blog Content -->
+		
+		<!-- Begin widget panel -->
+		{% include widget-panel.html %}
+		<!-- End widget panel -->
+	</div>
+	{% include foot-scripts.html %}
+</body>
+</html>

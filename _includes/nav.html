@@ -16,7 +16,7 @@
         <ul class="nav navbar-nav">
           <li {% if page.url == '/' %}class="selected"{% endif %}><a href="/">Home</a></li>
           <li {% if page.url == '/about/' %}class="selected"{% endif %}><a href="/about/">About</a></li>
-          <li {% if page.url == '/posts/' %}class="selected"{% endif %}><a href="/posts/">Posts</a></li>
+          <li {% if page.url contains '/post/' %}class="selected"{% endif %}><a href="/post/">Post</a></li>
         </ul>
       </div><!--/.nav-collapse -->
     </div>

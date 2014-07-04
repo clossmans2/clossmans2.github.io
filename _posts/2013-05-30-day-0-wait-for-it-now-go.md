@@ -4,7 +4,14 @@ title: Day 0/1 - wait for it....now go!!!
 date: 2013-05-30 08:49
 author: clossmans2
 comments: true
-categories: [birth, first time father, new dad, New Father, parenting, Personal Life]
+categories: 
+ - "birth"
+ - "first time father"
+ - "new dad"
+ - "New Father"
+ - "parenting"
+ - "Personal Life"
+ 
 ---
 Wow!  It's been a heck of a day. Lets recap.
 

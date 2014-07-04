@@ -4,7 +4,16 @@ title: day 2 - cluster feeding?... i could've sworn that was supposed to be anot
 date: 2013-05-31 23:57
 author: clossmans2
 comments: true
-categories: [baby, breast-feeding, new dad, New Father, new parent, Personal Life]
+tags: 
+ - "baby"
+ - "breast-feeding"
+ - "new"
+ - "dad"
+ - "New Father"
+ - "new"
+ - "parent"
+ - "Personal Life"
+ 
 ---
 a little on the unexpected side of things, night number 2 was definitely rougher than night one.My daughter began <!--more--> her cluster feeding time period and things got crazy.  in short, it was so rough that i didnt have time to post until now.  For those uninitiated or unaware, cluster feeding is where the baby finally realizes what true hunger is and feeds almost continuously for long periods of time because it cant get satisfied on the collostrum that is being produced by the mother at that point.  
 

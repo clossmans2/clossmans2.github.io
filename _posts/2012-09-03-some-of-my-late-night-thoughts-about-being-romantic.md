@@ -4,7 +4,7 @@ title: Some of my late night thoughts about being Romantic
 date: 2012-09-03 08:01
 author: clossmans2
 comments: true
-categories: [Uncategorized]
+tags: "Uncategorized"
 ---
 Yet another slice of the old facebook notes.  The title on this one is self explanatory.  Here goes...
 

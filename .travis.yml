@@ -1,8 +1,9 @@
 language: ruby
-rvm:
-- 2.0
-script: jekyl build
+install:
+  - bundle install
+
+script: bundle exec rake site:deploy --quiet
 
 env:
   global:
-  - NOKOGIRI_USE_SYSTEM_LIBRARIES=true
+    secure: ZRhTKMEcZVcujw0rBKHx/3lTRbkhF9PMJeOZmavoJBGJwHv85BZEpuFCkxAMa2P/3OrQJG+Dzi55tk/N7JgCfAkZHnAQpRdsqrnkWBoRzjT/64/U1o3TNYfrfj9stLMjs+VRMR6EcgRli1E3n12WOT7sL5bpOrVOssuTQ4K2Jgg=

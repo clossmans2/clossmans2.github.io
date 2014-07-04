@@ -4,7 +4,7 @@ title: The Lost Generation of Employees
 date: 2012-09-17 08:01
 author: clossmans2
 comments: true
-categories: [Uncategorized]
+tags: "Uncategorized"
 ---
 <div><a href="http://3.bp.blogspot.com/_ah0awJblbxY/S4Im8M2yEMI/AAAAAAAAABE/8wN1gy61ZXw/s1600-h/graduation.jpg"><img src="http://3.bp.blogspot.com/_ah0awJblbxY/S4Im8M2yEMI/AAAAAAAAABE/8wN1gy61ZXw/s320/graduation.jpg" alt="" border="0" /></a></div>
 I truly feel for the current and coming generation of brilliant young minds graduating from colleges and universities all over the US.  If any of them are in my situation, they have a mighty challenge ahead.

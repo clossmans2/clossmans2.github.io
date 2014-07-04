@@ -4,7 +4,7 @@ title: Zach's Halo Metaphor
 date: 2012-08-27 08:01
 author: clossmans2
 comments: true
-categories: [Uncategorized]
+tags: "Uncategorized"
 ---
 Another entry from the Old Facebook Notes section.&nbsp; This one is partly from one of the best roomates I ever had in college.&nbsp; He and I were both nerds who liked to play the Halo series and somehow we compared that to life. Here's what we came up with.
 

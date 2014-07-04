@@ -4,7 +4,7 @@ title: Seth the Poet/Songwriter
 date: 2012-09-10 08:01
 author: clossmans2
 comments: true
-categories: [Uncategorized]
+tags: "Uncategorized"
 ---
 The final installment of the Old Facebook Notes series.  This, as described below, is about a song I wrote in high school for my 2 member acoustic band that was formed to impress girls.  It was pretty good...
 

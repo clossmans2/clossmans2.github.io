@@ -4,7 +4,15 @@ title: Day 8 - Disaster Preparedness
 date: 2013-06-07 08:06
 author: clossmans2
 comments: true
-categories: [baby, fatherhood, new dad, New Father, parenthood, parenting, Personal Life]
+tags: 
+ - "baby"
+ - "fatherhood"
+ - "new dad"
+ - "New Father"
+ - "parenthood"
+ - "parenting"
+ - "Personal Life"
+ 
 ---
 <a href="http://sethclossman.com/blog/wp-content/uploads/2013/06/20130607-040735.jpg"><img src="http://sethclossman.com/blog/wp-content/uploads/2013/06/20130607-040735.jpg" alt="20130607-040735.jpg" class="alignnone size-full" /></a><br /><br />My wife and I were talking in the car the other day about a tropical storm that is getting close to hitting us now and what growing up in this area was like compared to the area where I grew up.  She mentioned that preparing for a hurricane was a difficult process, but that it made her care more about relationships than possessions.  She said that they knew they could only take what would fit in their car.  That meant that a family of 4 could only take the things that mattered most to them.
 

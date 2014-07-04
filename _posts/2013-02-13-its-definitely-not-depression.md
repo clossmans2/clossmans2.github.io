@@ -1,21 +1,22 @@
 ---
 layout: "post"
 title: "It's definitely not depression..."
-date: "2013-02-13 06:02"
+date: 2013-02-13 06:02
 author: "clossmans2"
 comments: true
 tags: 
-- "creativity"
-- "depression"
-- "dissatisfaction"
-- "DIY"
-- "elloree"
-- "ideas"
-- "improvement"
-- "life"
-- "marriage"
-- "software"
-- "development"
+ - "creativity"
+ - "depression"
+ - "dissatisfaction"
+ - "DIY"
+ - "elloree"
+ - "ideas"
+ - "improvement"
+ - "life"
+ - "marriage"
+ - "software"
+ - "development"
+ 
 ---
 During the first year of my marriage, my wife said something that I've had a hard time shaking off for so long.  I started thinking about then and up until now, I believed that it was a problem I had.  She said "You'll never be satisfied with what you have<!--more--> or how things are, you're constantly looking for change."  I thought that I had contracted the Clossman curse.
 

@@ -4,7 +4,20 @@ title: Day 11 - Family.... and then friends
 date: 2013-06-11 08:21
 author: clossmans2
 comments: true
-categories: [baby, birth, christ follower, fatherhood, first time father, life, new dad, New Father, new parent, parenting, Personal Life, sleep]
+tags:
+ - "baby"
+ - "birth"
+ - "christ follower"
+ - "fatherhood"
+ - "first time father"
+ - "life"
+ - "new dad"
+ - "New Father"
+ - "new parent"
+ - "parenting"
+ - "Personal Life"
+ - "sleep"
+ 
 ---
 Sunday morning, we were going to make my daughter's first trip to Church.  We got up in time, left a little late, and arrived shortly after the music had started.  The worship leader picked on us shortly after arriving saying that half of the congregation got up and crowded us when we came in because everybody wanted to see the baby.  The baby managed to stay asleep throughout the entire service.  I knew I had an amazing daughter.
 

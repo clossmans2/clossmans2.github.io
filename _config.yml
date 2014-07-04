@@ -1,12 +1,29 @@
-source: .
-destination: ./_site
-exclude: [ vendor, scripts ]
+safe: false
+lsi: false
+
+destination: master
+
+username: clossmans2
+repo: clossmans2.github.io
+branch: master
+
+permalink: pretty
+
+paginate: 10
+paginate_path: "blog/page:num"
+
+exclude:
+  - README.md
+  - Rakefile
+  - Gemfile
+  - Gemfile.lock
+  - changelog.md
+  - "*.Rmd"
+  - vendor
+  - .travis.yml
+  - scripts
+
 timezone: America/New_York
 encoding: utf-8
 limit_posts: 0
 highlighter: pygments
-relative_permalinks: true
-permalink: date
-paginate_path: 'page:num'
-port: 4000
-safe: true

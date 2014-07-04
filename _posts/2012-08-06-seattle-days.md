@@ -4,7 +4,7 @@ title: Seattle Days
 date: 2012-08-06 08:01
 author: clossmans2
 comments: true
-categories: [Uncategorized]
+tags: "Uncategorized"
 ---
 This is the first note from the series of my old facebook notes that i treated as a blog.  This one was written on October 17th, 2006...
 

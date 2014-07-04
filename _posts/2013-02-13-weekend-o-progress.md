@@ -4,7 +4,18 @@ title: Weekend O' Progress
 date: 2013-02-13 04:10
 author: clossmans2
 comments: true
-categories: [Crosspoint Church, DIY, fatherhood, handgun, home improvement, New Father, Personal Life, small group, Steyr, superbowl]
+tags: 
+ - "Crosspoint Church"
+ - "DIY"
+ - "fatherhood"
+ - "handgun"
+ - "home improvement"
+ - "New Father"
+ - "Personal Life"
+ - "small group"
+ - "Steyr"
+ - "superbowl"
+
 ---
 What an awesome weekend! So much accomplished.  Way to much to talk about.  How about some pics to illustrate.
 
