@@ -26,4 +26,5 @@ exclude:
 timezone: America/New_York
 encoding: utf-8
 limit_posts: 0
+markdown: kramdown
 highlighter: pygments
