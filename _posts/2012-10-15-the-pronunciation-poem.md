@@ -1,14 +1,16 @@
 ---
 layout: post
 title: The Pronunciation Poem
-date: 2012-10-15 08:01
+date: "2012-10-15 08:01"
 author: clossmans2
 comments: true
-tags: "Uncategorized"
+tags: Uncategorized
+published: true
 ---
 
 I have been using <a href="http://www.stumbleupon.com/">StumbleUpon</a> quite a lot recently and I usually come across a lot of neat things.  This one particular thing I had to share.  The English language is a complex enigma wrapped in a riddle concealed in a mystery.  Words don't look or sound anything like they should.  This is kind of an illustration of that dealing pronunciation.  Check it out.
-<pre>I take it you already know
+~~~~~~~~
+I take it you already know
 of tough and bough and cough and dough?
 Others may stumble, but not you,
 on hiccough, thorough, laugh and through.
@@ -34,5 +36,5 @@ and do and go and thwart and cart --
 come, come I've hardly made a start.
 A dreadful language?  Man alive.
 I'd mastered it when I was five.
-
+~~~~~~~~
 <a href="http://www.stumbleupon.com/su/2EfRPL/www.infiltec.com/j-prono.htm/">http://www.stumbleupon.com/su/2EfRPL/www.infiltec.com/j-prono.htm/</a></pre>
