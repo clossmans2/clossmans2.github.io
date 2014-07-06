@@ -1,42 +1,6 @@
 ---
-layout: default
-title: "Home"
+theme :
+  name : bootstrap-3
 ---
-
-<!DOCTYPE html>
-<html lang="en">
-{% include head.html %}
-<body>
-	<!-- Add in the Navbar -->
-	{% include nav.html %}
-
-	<!-- Main content area -->
- 	<br />
-	<br />
-	<div class="container">		
-
-		<!-- Start Blog Content -->
-		<div class="col-md-9 col-xs-12">
-			{% for post in site.posts offset: 0 limit: 10 %}
-			<div class="row blog-post">
-				<h2>
-					<a href="{{site.prefix}}{{post.url}}">{{ post.title }}</a>
-				</h2>
-				<p>
-					<span class="fa fa-clock-o"> Posted on {{ post.date | date_to_string }}</span>
-				</p>
-				<hr />
-				<p>{{ post.excerpt | strip_html }}</p>
-				<hr />
-			</div>
-			{% endfor %}
-		</div>
-		<!-- End Blog Content -->
-		
-		<!-- Begin widget panel -->
-		{% include widget-panel.html %}
-		<!-- End widget panel -->
-	</div>
-	{% include foot-scripts.html %}
-</body>
-</html>
+{% include JB/setup %}
+{% include themes/bootstrap-3/default.html %}
