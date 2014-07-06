@@ -13,7 +13,7 @@
 
     <!-- Bootstrap styles -->
     <link href="{{ ASSET_PATH }}/bootstrap/css/bootstrap.min.css" rel="stylesheet">
-    <!-- Optional font-awesome icons -->
+    <!-- Optional theme -->
     <link href="{{ ASSET_PATH }}/bootstrap/css/font-awesome.min.css" rel="stylesheet">
     <!-- Sticky Footer -->
     <link href="{{ ASSET_PATH }}/bootstrap/css/bs-sticky-footer.css" rel="stylesheet">
@@ -63,20 +63,18 @@
             {% assign group = 'navigation' %}
             {% include JB/pages_list %}
           </ul>
-          <form class="navbar-form navbar-right" role="search">
+          <form class="navbar-form navbar-right" id="searchForm" role="search">
             <div class="form-group">
-              <input type="text" class="form-control" placeholder="Search">
+              <input type="text" id="searchBox" class="form-control" placeholder="Search">
             </div>
-            <button type="submit" class="btn btn-primary">
-              <i class="fa fa-search"></i> Submit
+            <button type="submit" id="searchButton" class="btn btn-default">
+            <i class="fa fa-search"></i> Submit
             </button>
           </form>
         </div><!-- /.navbar-collapse -->
       </nav>
 
-      <div class="container">
         {{ content }}
-      </div>
 
     </div>
 
@@ -96,5 +94,7 @@
     <!-- Placed at the end of the document so the pages load faster -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
     <script src="{{ ASSET_PATH }}/bootstrap/js/bootstrap.min.js"></script>
+    <script src="{{ ASSET_PATH }}/js/lunr.min.js"></script>
+    <script src="{{ ASSET_PATH }}/js/search.js"></script>
   </body>
 </html>
