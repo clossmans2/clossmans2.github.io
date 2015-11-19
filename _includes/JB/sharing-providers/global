@@ -1,0 +1,6 @@
+<ul class="post-share ulno mob">
+<li class="fb">{% include JB/sharing-providers/facebook %}</li>
+<li class="tw">{% include JB/sharing-providers/twitter %}</li>
+<li class="gp">{% include JB/sharing-providers/googleplus %}</li>
+<li class="li">{% include JB/sharing-providers/linkedin %}</li>
+</ul>
