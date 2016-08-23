@@ -1,25 +1,25 @@
 ---
-layout: post
 title: Day 5 - Did I speak too soon?
-date: 2013-06-04 09:03
+date: 2013-06-04 09:03:00 -04:00
+tags:
+- baby
+- birth
+- christ follower
+- father
+- fatherhood
+- first time father
+- life
+- marriage
+- new dad
+- New Father
+- new parent
+- parenting
+- Personal Life
+layout: post
 author: clossmans2
 comments: true
-tags: 
- - "baby"
- - "birth"
- - "christ follower"
- - "father"
- - "fatherhood"
- - "first time father"
- - "life"
- - "marriage"
- - "new dad"
- - "New Father"
- - "new parent"
- - "parenting"
- - "Personal Life"
- 
 ---
+
 <a href="http://sethclossman.com/blog/wp-content/uploads/2013/06/20130607-041628.jpg"><img src="http://sethclossman.com/blog/wp-content/uploads/2013/06/20130607-041628.jpg" alt="20130607-041628.jpg" class="alignnone size-full" /></a><br /><br />It's funny how I get all positive while i'm writing some of these and then all of a sudden things get rough...
 
 <!--more-->

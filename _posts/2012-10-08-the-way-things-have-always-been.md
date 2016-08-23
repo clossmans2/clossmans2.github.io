@@ -1,10 +1,11 @@
 ---
-layout: post
 title: The way things have always been
-date: 2012-10-08 08:01
+date: 2012-10-08 08:01:00 -04:00
+tags:
+- Uncategorized
+layout: post
 author: clossmans2
 comments: true
-tags: "Uncategorized"
 ---
 
 First off, I want to blame my extended hiatus since my last post on I've getting busy and I'd like to apologize for it. I got some inspiration today after a convergence of several things made me want to write again. 

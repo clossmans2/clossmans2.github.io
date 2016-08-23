@@ -1,6 +1,6 @@
 ---
-layout: page
 title: The Bluffton Clossman Story
+layout: page
 tagline: Occasional snippets and life lessons from those on the coast
 header-img: pumpkin-patch.jpg
 ---

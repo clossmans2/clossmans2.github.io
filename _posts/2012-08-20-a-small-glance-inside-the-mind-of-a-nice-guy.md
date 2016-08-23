@@ -1,11 +1,13 @@
 ---
-layout: post
 title: A small glance inside the mind of a nice guy.
-date: 2012-08-20 08:01
+date: 2012-08-20 08:01:00 -04:00
+tags:
+- Uncategorized
+layout: post
 author: clossmans2
 comments: true
-tags: "Uncategorized"
 ---
+
 Another post from the Facebook collection.  This one focuses on some of the inner thoughts from the mind of a nice guy.  Check it out...
 So when a nice guy takes a girl out that he is attracted to, these are some of the things running through his mind.
 

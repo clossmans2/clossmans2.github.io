@@ -1,25 +1,25 @@
 ---
-layout: post
 title: Day 10 - 4 Generations in 1 Household
-date: 2013-06-11 08:04
+date: 2013-06-11 08:04:00 -04:00
+tags:
+- baby
+- birth
+- breast-feeding
+- father
+- fatherhood
+- first time father
+- life
+- new dad
+- New Father
+- new parent
+- parenting
+- Personal Life
+- sleep
+layout: post
 author: clossmans2
 comments: true
-tags: 
- - "baby"
- - "birth"
- - "breast-feeding"
- - "father"
- - "fatherhood"
- - "first time father"
- - "life"
- - "new dad"
- - "New Father"
- - "new parent"
- - "parenting"
- - "Personal Life"
- - "sleep"
-
 ---
+
 Saturday was an excellent day overall.  My parents made it into town.  
 
 My Grandparents happened to make their way into town as well.  You've gotta love the differences between experiences parents with older kids and new parents.  First, My wife and I hadn't gotten out of bed yet when they pulled into my driveway.  That was a crazy start for us, but we managed to have a good time.  After the pictures and general hang out time, I got to sit and watch college baseball with my grandparents on the big screen.  They are excellent "come and hang out partners."

@@ -1,14 +1,14 @@
 ---
+title: Day 0 - Twas the night before Charlotte
+date: 2013-05-29 07:30:00 -04:00
+tags:
+- New Father
+- Personal Life
 layout: post
-title: Day 0 - Twas the night before Charlotte 
-date: 2013-05-29 07:30
 author: clossmans2
 comments: true
-tags: 
- - "New Father"
- - "Personal Life"
- 
 ---
+
 And so it begins...
 
 A few months back, I mentioned to my wife that one goal I had for the birth of our daughter was to blog updates and my thoughts as a new dad for the first 30 days of her life.  We watched as those months pretty quickly chipped away.  I lay now in the hospital bed about 10 feet away from my 10 month pregnant wife.  She's been a ball of nerves leading up to this point but now she's calmed down and has spent the last few hours just trying to take it all in.  It's 3:30am on the morning of my daughters birth and typical Seth can't sleep.  Emotions in me are always subtle but pervasive.  It's very similar to the feeling I used to have as a child on Christmas Eve when I was trying to fall asleep before Santa Clause's arrival.  The house was spotless.  All of the decorations were up.  The only thing left to do was to fall asleep and put aside the incredible feeling of anticipation that I had for the coming morning.

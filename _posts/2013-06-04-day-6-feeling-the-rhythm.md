@@ -1,26 +1,26 @@
 ---
-layout: post
 title: Day 6 - Feeling the Rhythm...
-date: 2013-06-04 09:27
+date: 2013-06-04 09:27:00 -04:00
+tags:
+- baby
+- birth
+- breast-feeding
+- christ follower
+- father
+- fatherhood
+- first time father
+- life
+- marriage
+- new dad
+- New Father
+- parenting
+- Personal Life
+- sleep
+layout: post
 author: clossmans2
 comments: true
-tags: 
- - "baby"
- - "birth"
- - "breast-feeding"
- - "christ follower"
- - "father"
- - "fatherhood"
- - "first time father"
- - "life"
- - "marriage"
- - "new dad"
- - "New Father"
- - "parenting"
- - "Personal Life"
- - "sleep"
- 
 ---
+
 <a href="http://sethclossman.com/blog/wp-content/uploads/2013/06/20130607-041514.jpg"><img src="http://sethclossman.com/blog/wp-content/uploads/2013/06/20130607-041514.jpg" alt="20130607-041514.jpg" class="alignnone size-full" /></a><br /><br />So yesterday was more of a recovery day than anything else.  The night closed with another first, and by far one of the scariest/most nerve wracking experiences in my own life...
 
 <!--more-->

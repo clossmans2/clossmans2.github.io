@@ -1,22 +1,22 @@
 ---
-layout: post
 title: Weekend O' Progress
-date: 2013-02-13 04:10
+date: 2013-02-13 04:10:00 -05:00
+tags:
+- Crosspoint Church
+- DIY
+- fatherhood
+- handgun
+- home improvement
+- New Father
+- Personal Life
+- small group
+- Steyr
+- superbowl
+layout: post
 author: clossmans2
 comments: true
-tags: 
- - "Crosspoint Church"
- - "DIY"
- - "fatherhood"
- - "handgun"
- - "home improvement"
- - "New Father"
- - "Personal Life"
- - "small group"
- - "Steyr"
- - "superbowl"
-
 ---
+
 What an awesome weekend! So much accomplished.  Way to much to talk about.  How about some pics to illustrate.
 
 [caption id="attachment_51" align="aligncenter" width="638"]<a href="http://sethclossman.com/blog/wp-content/uploads/2013/02/IMG_0213.jpg"><img src="http://sethclossman.com/blog/wp-content/uploads/2013/02/IMG_0213-1024x768.jpg" alt="CR_Bedroom_Pre" width="638" height="478" class="size-large wp-image-51" /></a> Charlotte Rebecca's bedroom before we started our work.[/caption]

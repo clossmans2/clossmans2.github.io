@@ -1,11 +1,11 @@
 ---
-layout: post
 title: The Pronunciation Poem
-date: "2012-10-15 08:01"
+date: 2012-10-15 08:01:00 -04:00
+tags:
+- Uncategorized
+layout: post
 author: clossmans2
 comments: true
-tags: Uncategorized
-published: true
 ---
 
 I have been using <a href="http://www.stumbleupon.com/">StumbleUpon</a> quite a lot recently and I usually come across a lot of neat things.  This one particular thing I had to share.  The English language is a complex enigma wrapped in a riddle concealed in a mystery.  Words don't look or sound anything like they should.  This is kind of an illustration of that dealing pronunciation.  Check it out.

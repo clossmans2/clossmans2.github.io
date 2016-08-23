@@ -1,18 +1,17 @@
 ---
-layout: post
 title: Day 9 - Doctor, Work, and wow it's late
-date: 2013-06-08 09:21
+date: 2013-06-08 09:21:00 -04:00
+tags:
+- baby
+- fatherhood
+- infant
+- new dad
+- New Father
+- new parent
+- Personal Life
+layout: post
 author: clossmans2
 comments: true
-tags: 
- - "baby"
- - "fatherhood"
- - "infant"
- - "new dad"
- - "New Father"
- - "new parent"
- - "Personal Life"
- 
 ---
 
 So today was not really that big of a deal in the grand scheme of things.  That's why Ive decided to make this more of a look at pictures post than a speak my mind post.  We basically went to the OB, took my daughter into my office to meet my coworkers, then came back home and chilled.  It was fun, but somewhat uneventful.  Lots of napping on my wifes part.  Lots of chilling out on mine.  I ended up getting my test web server up and running.  Thats about it.

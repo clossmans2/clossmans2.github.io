@@ -1,10 +1,11 @@
 ---
-layout: post
 title: Lose/Lose Situation
-date: 2012-09-24 08:01
+date: 2012-09-24 08:01:00 -04:00
+tags:
+- Uncategorized
+layout: post
 author: clossmans2
 comments: true
-tags: "Uncategorized"
 ---
 
 <div><a href="http://sethclossman.com/blog/wp-content/uploads/2012/09/callcenter-72-03s.jpg"><img src="http://sethclossman.com/blog/wp-content/uploads/2012/09/callcenter-72-03s.jpg?w=300" alt="" border="0" /></a></div>

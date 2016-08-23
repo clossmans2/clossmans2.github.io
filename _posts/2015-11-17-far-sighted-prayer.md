@@ -1,22 +1,21 @@
 ---
-published: true
-layout: post
 title: Far Sighted - Prayer
-date: 2015-11-17 02:21
+date: 2015-11-17 02:21:00 -05:00
+tags:
+- prayer
+- christ follower
+- fatherhood
+- second time father
+- life
+- ADHD
+- Jesus
+- schedule
+- parenting
+- Personal Life
+- sleep
+layout: post
 author: clossmans2
 comments: true
-tags:
- - "prayer"
- - "christ follower"
- - "fatherhood"
- - "second time father"
- - "life"
- - "ADHD"
- - "Jesus"
- - "schedule"
- - "parenting"
- - "Personal Life"
- - "sleep"
 ---
 
 ## Far Sighted: Prayer

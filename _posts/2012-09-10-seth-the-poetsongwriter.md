@@ -1,11 +1,13 @@
 ---
-layout: post
 title: Seth the Poet/Songwriter
-date: 2012-09-10 08:01
+date: 2012-09-10 08:01:00 -04:00
+tags:
+- Uncategorized
+layout: post
 author: clossmans2
 comments: true
-tags: "Uncategorized"
 ---
+
 The final installment of the Old Facebook Notes series.  This, as described below, is about a song I wrote in high school for my 2 member acoustic band that was formed to impress girls.  It was pretty good...
 
 So a long while ago (high school/who knows where all this random HS stuff is coming from) i thought i could be a songwriter. I guess at that point i was just trying to impress girls. Some have probably even heard one of my first songs entitled "girl of my dreams" if you have been around me while playing guitar. Nonetheless, i started wanting to write something deeper. I wanted to write about something i was passionate about. This is by no means professional songwriting ability, but i will say i did a very good job. This was my only song to ever truly get published. Yes, thats right. Published. And not published like in a school newspaper or something. This thing got put in some book full of other kids poems that is now being kept in the library of congress or something like that. Anyways, comment and let me know what you think.

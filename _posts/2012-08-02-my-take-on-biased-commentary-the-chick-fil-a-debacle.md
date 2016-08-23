@@ -1,19 +1,19 @@
 ---
-layout: post
 title: My take on biased commentary about The Chick-fil-a debacle
-date: 2012-08-02 02:37
+date: 2012-08-02 02:37:00 -04:00
+tags:
+- christ follower
+- current-events
+- first amendment rights
+- human-rights
+- politics
+- religion
+- Uncategorized
+layout: post
 author: clossmans2
 comments: true
-tags: 
- - "christ follower"
- - "current-events"
- - "first amendment rights"
- - "human-rights"
- - "politics"
- - "religion"
- - "Uncategorized"
-
 ---
+
 If a private company (let me reiterate by saying it's not owned by the government) decides to donate money or products services to a non-profit organization that is based on islamic values, does that mean that the private company is a supporter of terrorists? If I make money at a job everyday and decide to fill up at the Citgo station instead of the Shell, am I a supporter of Venezuelan dictators? Finally, If I am a Christ Follower, If I attend a church, If I tithe, and I believe what the Bible says, does that make me anti-gay?
 If the whole business with Chick-fil-a happened in a public organization or in a government office, I would expect some serious consequences should occur. But you see, the thing is, we live in a somewhat capitalist, somewhat free-market society. Private businesses exist. Private businesses are basically individuals. They are afforded the same first amendment rights that all Americans share. Sure we can say what we feel in response. We can always support businesses that we believe in or choose not to frequent businesses whose beliefs dont align with our own. Sometimes we dont have a choice. I do not necessarily agree with Wal-Mart's tactics on "hustling" their suppliers into lower prices due to large production volume, or their tendency to come into an area and wipe out small business due to in inability for them to compete, but there's not much else I can do when I need toliet paper or groceries that I finally had time to go shopping for at midnight.
 For some reason, people like to stir up hate. Bloggers and the media (but not all media) have an agenda. Should we believe and agree with everything we read on the internet. That's about as smart as writing your doctorate with Wikipedia as your primary source.

@@ -1,11 +1,13 @@
 ---
-layout: post
 title: Some of my late night thoughts about being Romantic
-date: 2012-09-03 08:01
+date: 2012-09-03 08:01:00 -04:00
+tags:
+- Uncategorized
+layout: post
 author: clossmans2
 comments: true
-tags: "Uncategorized"
 ---
+
 Yet another slice of the old facebook notes.  The title on this one is self explanatory.  Here goes...
 
 (If you read this with anything by Explosions in the Sky from their Friday night lights album playing, it seems to make it so much better)

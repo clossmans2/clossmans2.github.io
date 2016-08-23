@@ -1,11 +1,13 @@
 ---
-layout: post
 title: Seattle Days
-date: 2012-08-06 08:01
+date: 2012-08-06 08:01:00 -04:00
+tags:
+- Uncategorized
+layout: post
 author: clossmans2
 comments: true
-tags: "Uncategorized"
 ---
+
 This is the first note from the series of my old facebook notes that i treated as a blog.  This one was written on October 17th, 2006...
 
 So the worst kinda day has to be the ones a lot like Tuesday, October 17th. It starts off when you wake up and winthrop has changed from Cold Air coming out of the unit on the wall to Hot air coming out of the unit on the wall and you wake up sweating. You take a shower and get dressed while noticing that the weather forecast for the day is rain. Now most people are not bothered by the rain. I personally am a fan of lightning and thunder and terrential downpour. Days like that are fun to make it through. The worst days lead you to believe that they will be like that, but you get out into the air, and its a big letdown. I walked outside only to find out that the rain i thought would just be pouring forth from the heavens was barely coming down at all. It was mildly cold and the slight drizzle made things just miserable. At breakfast, the lucky charms dispenser was locked. That was a cruel prank that Thomson cafeteria staff decided they wanted to play on us. I go to sit down only to find that instead of my usual morning dose of Saved by the Bell, i am forced to endure the antics of Steve Erkel in Family Matters. I head to my first class and find out that the lecture that was going to be presented was the most boring lecture of the entire semester (Hindu Practice). After i woke up from the most uncomfortable sleep i have had in a long time, we watched a movie that about made me pass out a second time I then left Kinard heading to dinkins expecting a check that i have been waiting on since the end of this past summer that i found out had still not shown up. I go back to the room that even though the window is open it feels like a place christians believe non believers will go when they die. It was too hot to take my usual nap, theres no food in the refridgerator and the slow drizzle seems to be coming into the window. I thought the day was going up when i got to go to walmart until i found out that AAA batteries cost almost $1.25 per battery. So i left and got back barely in time to inhale my food that i had and ran to class. I found out that the lecture (being a very long hour and fifteen minutes) happened to be about my least favorite subject, healthcare and insurance. I made it out of that and continued on through this not cool day. My Dad said that these are the kinda days that Seattle, Washington experiences most of the year. I dont really understand it, but i bet that these days probably added to Kurt Kobain's want to end his own life. Stressful days suck, but Boring days are the worst. Stress can be forgotten about or put on hold and add tempo to a day, but boring days seem so long that you will never escape them.

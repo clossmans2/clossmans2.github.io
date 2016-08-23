@@ -1,11 +1,13 @@
 ---
-layout: post
 title: Zach's Halo Metaphor
-date: 2012-08-27 08:01
+date: 2012-08-27 08:01:00 -04:00
+tags:
+- Uncategorized
+layout: post
 author: clossmans2
 comments: true
-tags: "Uncategorized"
 ---
+
 Another entry from the Old Facebook Notes section.&nbsp; This one is partly from one of the best roomates I ever had in college.&nbsp; He and I were both nerds who liked to play the Halo series and somehow we compared that to life. Here's what we came up with.
 
 So Zach and I were sitting up talking the other night for a little while, mainly talking about the female gender, and all of a sudden out of the mouth of Zachary Wilson Simmons comes one of the best metaphors about girls that i have heard. This would be my attempt to recreate that to the best of my ability. Some of my own comparisons may be added in to this extended metaphor so i would like to apologize to Zach beforehand for probably not getting it right. But here it goes:
