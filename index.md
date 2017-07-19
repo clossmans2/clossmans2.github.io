@@ -9,9 +9,6 @@ My personal blog.
 {% for post in site.posts %}
 <article class="row" itemscope itemtype="http://schema.org/BlogPosting">
     <div class="col-sm-3 hidden-xs">
-        <a itempropr="url" href="{{ BASE_PATH }}{{ post.url }}">
-            <span class="fa fa-file-text fa-lg"></span>
-        </a>
         <hr class="metaline" />
         <div class="additional-meta">
             <div class="meta-item">

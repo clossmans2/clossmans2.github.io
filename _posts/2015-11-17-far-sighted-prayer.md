@@ -18,8 +18,6 @@ author: clossmans2
 comments: true
 ---
 
-## Far Sighted: Prayer
-
 Yeah, So it's 1:22 AM as I start writing this and it kind of re-enforces the point I'll be trying to make.  On Sunday morning, one of my best friends gave a sermon at church on the vision of our church.  Specifically, he talked about prayer.  Before I get started on what he talked about, let me talk for a second on how I feel and think about prayer.
 
 Prayer (noun): 

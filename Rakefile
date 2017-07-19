@@ -1,16 +1,16 @@
-require "rubygems"
+require 'rubygems'
 require 'rake'
 require 'yaml'
 require 'time'
 
-SOURCE = "."
+SOURCE = '.'
 CONFIG = {
-  'version' => "0.3.0",
-  'themes' => File.join(SOURCE, "_includes", "themes"),
-  'layouts' => File.join(SOURCE, "_layouts"),
-  'posts' => File.join(SOURCE, "_posts"),
-  'post_ext' => "md",
-  'theme_package_version' => "0.1.0"
+    :version => "0.3.0",
+    :themes => File.join(SOURCE, "_includes", "themes"),
+    :layouts => File.join(SOURCE, "_layouts"),
+    :posts => File.join(SOURCE, "_posts"),
+    :post_ext => "md",
+    :theme_package_version => "0.1.0"
 }
 
 # Path configuration helper
@@ -47,7 +47,7 @@ task :post do
   title = ENV["title"] || "new-post"
   tags = ENV["tags"] || "[]"
   category = ENV["category"] || ""
-  category = "\"#{category.gsub(/-/,' ')}\"" if !category.empty?
+  category = "\"#{category.gsub(/-/, ' ')}\"" unless category.empty?
   slug = title.downcase.strip.gsub(' ', '-').gsub(/[^\w-]/, '')
   begin
     date = (ENV['date'] ? Time.parse(ENV['date']) : Time.now).strftime('%Y-%m-%d')
@@ -285,9 +285,9 @@ end
 #        
 # Returns theme manifest hash
 def verify_manifest(theme_path)
-  manifest_path = File.join(theme_path, "manifest.yml")
+  manifest_path = File.join(theme_path, 'manifest.yml')
   manifest_file = File.open( manifest_path )
-  abort("rake aborted: repo must contain valid manifest.yml") unless File.exist? manifest_file
+  abort('rake aborted: repo must contain valid manifest.yml') unless File.exist? manifest_file
   manifest = YAML.load( manifest_file )
   manifest_file.close
   manifest
@@ -295,7 +295,7 @@ end
 
 def ask(message, valid_options)
   if valid_options
-    answer = get_stdin("#{message} #{valid_options.to_s.gsub(/"/, '').gsub(/, /,'/')} ") while !valid_options.include?(answer)
+    answer = get_stdin("#{message} #{valid_options.to_s.gsub(/"/, '').gsub(/, /, '/')} ") until valid_options.include?(answer)
   else
     answer = get_stdin(message)
   end
