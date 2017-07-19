@@ -19,7 +19,7 @@ exclude:
 - README.md
 - Rakefile
 - changelog.md
-highlighter: pygments
+highlighter: rouge
 header_img: clean/pumpkin-patch.jpg
 tagline: There is no Happily Ever After, it just keeps going
 author:

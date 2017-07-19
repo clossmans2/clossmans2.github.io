@@ -3,6 +3,7 @@ source 'http://rubygems.org/'
 gem 'github-pages'
 gem 'wdm' if Gem.win_platform?
 gem 'classifier-reborn', '~> 2.1'
+gem 'rouge'
 gem 'jekyll-archives', '2.1.1'
 gem 'jekyll', '3.4.5'
 gem 'jekyll-coffeescript', '1.0.1'

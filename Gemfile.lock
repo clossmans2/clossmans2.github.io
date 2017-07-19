@@ -228,6 +228,7 @@ DEPENDENCIES
   maruku (= 0.7.3)
   rdiscount (~> 2.2, >= 2.2.0.1)
   redcarpet (~> 3.4)
+  rouge
   tzinfo-data
   wdm
 
