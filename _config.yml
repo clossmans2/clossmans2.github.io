@@ -12,7 +12,7 @@ safe: false
 lsi: true
 encoding: utf-8
 markdown: kramdown
-permalink: "/:day-:month-:year/:title"
+permalink: "/:year-:month-:day-:title"
 exclude:
 - ".rvmrc"
 - ".rbenv-version"
